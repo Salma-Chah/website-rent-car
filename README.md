@@ -6,9 +6,11 @@ Projet web full-stack développé avec :
 - **Base de données** : MySQL
 
 ## 🖥️ Fonctionnalités
+ ![Capture d'écran](Capture%20d'écran%20(839).png)
 - Affichage dynamique du catalogue de véhicules
 - Formulaire de réservation avec validation
 - Gestion des disponibilités en temps réel
+ 
 
 ## 🛠️ Installation locale
 1. Importez `database/location_voiture.sql` dans phpMyAdmin
