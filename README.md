@@ -1,4 +1,9 @@
 # 🚗 Plateforme de Location de Voitures
+### 🖥️ Vue du site
+
+![Capture d'écran](Capture%20d'écran%20(839).png)
+
+> *Page d'accueil avec catalogue dynamique de voitures*
 
 Projet web full-stack développé avec :
 - **Front-end** : HTML5, CSS3, JavaScript
@@ -6,7 +11,6 @@ Projet web full-stack développé avec :
 - **Base de données** : MySQL
 
 ## 🖥️ Fonctionnalités
- ![Capture d'écran](Capture%20d'écran%20(839).png)
 - Affichage dynamique du catalogue de véhicules
 - Formulaire de réservation avec validation
 - Gestion des disponibilités en temps réel
