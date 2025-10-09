@@ -1,0 +1,15 @@
+# Fichiers sensibles
+/config.php
+/.env
+/phpinfo.php
+
+# Fichiers système
+/thumbs.db
+.DS_Store
+
+# Dossiers temporaires
+/node_modules/
+/vendor/
+
+# Fichiers de logs
+/logs/
