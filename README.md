@@ -9,7 +9,7 @@ A full-stack web application built with:
 
 ## 🎥 Demo Video
 
-<video src="rent car video.mp4" width="100%" controls>
+<video src="Rent-Car video.mp4" width="100%" controls>
   Your browser does not support the video tag.
 </video>
 
