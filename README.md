@@ -9,9 +9,9 @@ A full-stack web application built with:
 
 ## 🎥 Demo Video
 
-![Demo Thumbnail](demo-thumbnail.png)
+[![Car Rental Demo](https://img.shields.io/badge/Watch%20Demo-Video-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/1rXhLQUpDr-XOn4VxNHAhermh7CCj3ULT/view?usp=sharing)
 
-👉 [Télécharger la vidéo pour la regarder localement](Rent-Car video.mp4)
+👉 [Regarder la démo complète sur Google Drive](https://drive.google.com/file/d/1rXhLQUpDr-XOn4VxNHAhermh7CCj3ULT/view?usp=sharing)
 
 ## 🖥️ Features
 - Dynamic car catalog display
