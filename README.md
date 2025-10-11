@@ -9,9 +9,9 @@ A full-stack web application built with:
 
 ## 🎥 Demo Video
 
-<video src="demo.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+![Demo Thumbnail](demo-thumbnail.png)
+
+👉 [Télécharger la vidéo pour la regarder localement](demo.mp4)
 
 ## 🖥️ Features
 - Dynamic car catalog display
